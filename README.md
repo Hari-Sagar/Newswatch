@@ -22,7 +22,7 @@ As big tech expands, it is difficult for the average person to keep up with tech
 
 ```bash
 git clone https://github.com/your-username/cs193-final-project
-cd cs193-final-project
+cd Newswatch
 chmod +x newswatch.sh
 cp .env.example .env
 ```
